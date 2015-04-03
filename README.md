@@ -2,7 +2,7 @@
 
 ##Description
 
-OptimizePress 2 fix e-commerce template loading
+OptimizePress 2 fix e-commerce template loading.
 Catches all "index_template" hooks and loads OptimizePress templating system
 
 ##Installation
