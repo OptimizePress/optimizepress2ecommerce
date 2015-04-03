@@ -21,4 +21,4 @@ Catches all "index_template" hooks and loads OptimizePress templating system
 ##Changelog
 
 ####1.0
-* Initial release.
+* Initial release
